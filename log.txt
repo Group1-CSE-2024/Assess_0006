@@ -1,0 +1,517 @@
+
+ASUS@DESKTOP-607SCML MINGW64 ~
+$ pwd
+/c/Users/ASUS
+
+ASUS@DESKTOP-607SCML MINGW64 ~
+$ cd Assess_0006
+
+ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+$ vi log.txt
+
+ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+$ history
+    5  vi style.css
+    6  git add style.css
+    7  git commit -m "I have added styles.css file to Task1.1a"
+    8  git branch testing
+    9  git checkout testing
+   10  git branch
+   11  vi test1.txt
+   12  git add test1.txt
+   13  git commit -m "I have added test1.txt to Task1.1a in testing branch"
+   14  vi test2.txt
+   15  git add test2.txt
+   16  git commit -m "I have added test2.txt file in Task1.1a testing branch"
+   17  ls
+   18  git checkout master
+   19  ls
+   20  git remote add origin https://github.com/abhayshah31/Git.git
+   21  git branch -M master
+   22  git push -u origin master
+   23  cd ..
+   24  cd ..
+   25   git branch -M master
+   26  ls
+   27  Gitlab_14Feb
+   28  cd Gitlab_14Feb
+   29   git branch -M master
+   30  ls
+   31  cd ..
+   32  git init
+   33  git push -u origin master
+   34  git push -u origin master
+   35  git remote add origin https://github.com/abhayshah31/Git.git
+   36  git branch -M master
+   37  git push -u origin master
+   38  rm -rf .git
+   39  clear
+   40  pwd
+   41  ls
+   42  cd Gitlab_14Feb
+   43  ls
+   44  cd Task1.1
+   45  git push -u origin master
+   46  git remote add origin https://github.com/abhayshah31/Git.git
+   47  git branch -M master
+   48  git push -u origin master
+   49  cd ..
+   50  git push -u origin master
+   51  ls
+   52  cd Task1.1a
+   53  git push -u origin master
+   54  git checkout testing
+   55  git push -u origin testing
+   56  git branch
+   57  git checkout master
+   58  git push
+   59  pwd
+   60  cd ..
+   61  ls
+   62  cd Task1.1
+   63  cd ..
+   64  ls
+   65  cd Task1.1a
+   66  git push
+   67  git pull
+   68  git push
+   69  clear
+   70  pwd
+   71  cd ..
+   72  cd ..
+   73  cd Git
+   74  ls
+   75  cd Gitlab_14Feb
+   76  ls
+   77  cd Task1.1
+   78  cd ..
+   79  ls
+   80  cd Task1.1a
+   81  ls
+   82  git checkout testing
+   83  ls
+   84  cd ..
+   85  pwd
+   86  cd ..
+   87  cd ..
+   88  pwd
+   89  cd Git
+   90  ls
+   91  cd Gitlab_14Feb
+   92  ls
+   93  cd Task1.1
+   94  git branch
+   95  ls
+   96  git remote -v
+   97  git remote add origin https://github.com/abhayshah31/Task1.1.git
+   98  $ git remote rename origin old-origin
+   99  $ git remote add origin https://github.com/abhayshah31/Task1.1.git
+  100  git remote remove origin
+  101  git remote add origin https://github.com/abhayshah31/Task1.1.git
+  102  git remote -v
+  103  git branch -M master
+  104  git push -u origin master
+  105  cd ..
+  106  ls
+  107  cd Task1.1a
+  108  ls
+  109  git branch
+  110  git checkout master
+  111  ls
+  112  git status
+  113  git pull origin master
+  114  git status
+  115  git pull
+  116  git remove origin
+  117  git remote remove origin
+  118  git status
+  119  ls
+  120  git remote add origin https://github.com/abhayshah31/Task1.1a.git
+  121  git branch -M master
+  122  git push -u origin master
+  123  git branch
+  124  git checkout testing
+  125  ls
+  126  git checkout master
+  127  ls
+  128  git checkout testing
+  129  ls
+  130  git push
+  131  git push -u origin testing
+  132  exit
+  133  pwd
+  134  ls
+  135  ls -l
+  136  ls -p
+  137  ls -ah
+  138  pwd
+  139  cd ..
+  140  cd ..
+  141  cd Git
+  142  ls
+  143  cd Gitlab_14Feb
+  144  cd Task1.1
+  145  ls
+  146  ls -ah
+  147  cd /
+  148  cd c
+  149  cd Gitone
+  150  cd Git/Gitone
+  151  cd c
+  152  cd /
+  153  cd c
+  154  mkdir Project2/16thFeb
+  155  mdkir Project2
+  156  mkdir Project2
+  157  mkdir Project2/16thFeb
+  158  cd Project2
+  159  mdkir 16thFeb_class
+  160  mkdir 16thFeb_class
+  161  ls
+  162  cd 16thFeb
+  163  mkdir c/project_16thFeb
+  164  mkdir /c/project_16thFeb
+  165  cd /c/Project2
+  166  cd /c/
+  167  history
+  168  ls
+  169  cd project_16thFeb
+  170  touch sample.txt
+  171  ls
+  172  vi sample.txt
+  173  git remote
+  174  pwd
+  175  pwd
+  176  cd /c/
+  177  mkdir 21stFeb
+  178  cd 21stFeb
+  179  git init
+  180  vi hello.txt
+  181  vi hello.c
+  182  git status
+  183  git add .
+  184  git status
+  185  git commit -m "commit on master branch|11:10am"
+  186  vi hello.c
+  187  git status
+  188   git log --online
+  189  git log -online
+  190  git log --oneline
+  191  vi hello.c
+  192  git stats
+  193  git status
+  194  git add hello.c
+  195  git commit -m "hello.c modified|11:14am"
+  196  git status
+  197  ls
+  198  git log --oneline
+  199  ls
+  200  cd hello.c
+  201  git branch test
+  202  git checkout test
+  203  vi hello.c
+  204  git add hello.c
+  205  git commit -m "some testing"
+  206  git branch
+  207  git branch dev
+  208  git checkout dex
+  209  git checkout dev
+  210  vi hello.c
+  211  git add hello.c
+  212  git checkout -m "function adding to dev "
+  213  git commit -m "function adding to dev "
+  214  git checkout master
+  215  git status
+  216  vi .gitignore
+  217  git add .gitignore
+  218  git commit -m ".gitignore added hello.c"
+  219  ls
+  220  git remote add origin https://github.com/abhayshah31/21stFeb.git
+  221  git branch -M master
+  222  git push -u origin master
+  223  pwd
+  224  cd ..
+  225  cd ..
+  226  cd 21stFeb
+  227  pwd
+  228  ls
+  229  ls -ah
+  230  git log
+  231  git branch
+  232  git checkout dev
+  233  ls
+  234  vi hello.c
+  235  git add hello.c
+  236  git commit -m "i have modified hello.c in dev"
+  237  git status
+  238  git checkout master
+  239  vi prog.py
+  240  git status
+  241  vi .gitignore
+  242  git add .gitignore
+  243  git commit -m "I ignore py file from .gitignore"
+  244  git status
+  245  ls
+  246  vi 1.png
+  247  vi .gitignore
+  248  git add .gitignore
+  249  git commit -m "I ignored png files using .gitignore"
+  250  mkdir IgnoreFolder
+  251  cd IgnoreFolder
+  252  cd ..
+  253  vi .gitignore
+  254  git add .gitignore
+  255  git commit -m "I ignored IgnoreFolder using .gitignore"
+  256  git status
+  257  git push
+  258  git branch
+  259  git checkout dev
+  260  git push
+  261  git push -u origin dev
+  262  git branch
+  263  git checkout test
+  264  git push -u origin test
+  265  ls
+  266  cd ..
+  267  cd 21stFeb
+  268  git checkout master
+  269  ls
+  270  history
+  271  pwd
+  272  cd /c/
+  273  mkdir 23Feb
+  274  cd 23Feb
+  275  git init
+  276  vi hello.txt
+  277  git add .
+  278  git commit -m "first commit | main branch"
+  279  vi hello.txt
+  280  git add .
+  281  git commit -m "Second commit | main branch"
+  282  git log --oneline
+  283  git branch dev1
+  284  git branch
+  285  git checkout dev1
+  286  cat hello.txt
+  287  vi hello.txt
+  288  git add .
+  289  git commit -m " first commit on dev 1"
+  290  git log --oneline
+  291  vi hello.txt
+  292  git add .
+  293  git commit -m "second commit on dev1"
+  294  git branch dev2
+  295  git branch
+  296  git checkout dev2
+  297  git log --online
+  298  git log --oneline
+  299  vi hello.txt
+  300  git add .
+  301  git commit -m "first commit | dev2 | line 5 added"
+  302  cat hello.txt
+  303  git checkout dev1
+  304  git merge dev2 dev1
+  305  git status
+  306  git log --oneline
+  307  vi hello.txt
+  308  git checkout master
+  309  git log -oneline
+  310  git log --oneline
+  311  vi hello.txt
+  312  git add .
+  313  git commit -m "third commit |line 3 added"
+  314  git log --oneline
+  315  git checkout dev2
+  316  git merge main dev2
+  317  git merge master dev2
+  318  pwd
+  319  cd /c/
+  320  mkdir task2.1
+  321  cd task2.1
+  322  git init
+  323  vi calci.c
+  324  git add calci.c
+  325  git commit -m "calci.c empty added to master"
+  326  git branch case1
+  327  git checkout case1
+  328  vi calci.c
+  329  git checkout case1
+  330  pwd
+  331  cd /c
+  332  cd task2.1
+  333  ls
+  334  cat calci.c
+  335  git add .
+  336  git commit -m "case addition & subtraction added in calci.c"
+  337  git branch case2
+  338  git checkout case2
+  339  vi calci.c
+  340  git add .
+  341  git commit -m "case multiply & divide added in calci.c | case2"
+  342  cd /c/
+  343  ls
+  344  cd 23Feb
+  345  mergetool
+  346  git mergetool
+  347  git add .
+  348  git commit -m "Conflict resolved"
+  349  git log
+  350  pwd
+  351  cd /c/
+  352  cd 23Feb
+  353  ls
+  354  git branch
+  355  git checkout master
+  356  git remote add origin https://github.com/abhayshah31/23Feb.git
+  357  git branch -M master
+  358  git push -u origin master
+  359  history
+  360  git branch
+  361  cd /c/
+  362  mkdir clonerepo
+  363  cd clonerepo
+  364  pwd
+  365  git status
+  366  git clone https://github.com/MonitKapoor/23feb.git
+  367  ls
+  368  cd 23feb
+  369  git branch
+  370  git branch dev1
+  371  git checkout dev1
+  372  git log --oneline
+  373  git pull
+  374  git branch --set-upstream-to=origin/<branch> dev1
+  375  git branch --set-upstream-to=origin/dev1 dev1
+  376  git pull
+  377  cd /c/
+  378  mkdir clone_new
+  379  cd clone_new
+  380  git clone https://github.com/abhayshah31/16hfeb_class.git
+  381  ls
+  382  cd 16hfeb_class
+  383  git log --oneline
+  384  git branch
+  385  pwd
+  386  cd /c/
+  387  cd /c/
+  388  pwd
+  389  mkdir Assess_0006
+  390  cd Assess_0006
+  391  pwd
+  392  mkdir img
+  393  ls
+  394  git init
+  395  touch hello.c
+  396  ls
+  397  touch hey.txt
+  398  touch index.html
+  399  img.png
+  400  touch img.png
+  401  ls
+  402  vi hello.c
+  403  git add hello.c
+  404  git commit -m "c code added in hello.c file|15:18"
+  405  vi hey.txt
+  406  git add hey.txt
+  407  git commit -m "hey.txt file added|15:20"
+  408  vi index.html
+  409  git add index.html
+  410  git commit -m "html code added to index.html|15:22"
+  411  git status
+  412  vi hello.c
+  413  git add hello.c
+  414  git commit -m "3rd line of hello.c modified|15:25"
+  415  vi hey.txt
+  416  git add hey.txt
+  417  git commit -m "One more line added to hey.txt|15:26"
+  418  vi index.html
+  419  git add index.html
+  420  git commit -m "body added to index.html file|15:27"
+  421  git remote add origin https://github.com/abhayshah31/Assess_0006.git
+  422  git branch -M master
+  423  git push -u origin master
+  424  git status
+  425  vi .gitignore
+  426  git add .gitignore
+  427  git commit -m ".gitignore file created to ignore all .png files in the repo|15:33"
+  428  git status
+  429  ls
+  430  cd img
+  431  vi .gitignore
+  432  git add .gitignore
+  433  git commit -m ".gitignore file created in img subfolder to ignore all .c & .txt files|15:36"
+  434  cd ..
+  435  pwd
+  436  git mv /c/Users/ASUS/Assess_0006* /c/Users/ASUS/Assess_0006/img
+  437  git mv /c/Users/ASUS/Assess_0006/* /c/Users/ASUS/Assess_0006/img/
+  438  git mv /c/Users/ASUS/Assess_0006/* /c/Users/ASUS/Assess_0006/img/
+  439  git mv /c/Users/ASUS/Assess_0006/* /c/Users/ASUS/Assess_0006/img/
+  440  ls
+  441  ASUS@DESKTOP-607SCML MINGW64 ~
+  442  $ pwd
+  443  /c/Users/ASUS
+  444  ASUS@DESKTOP-607SCML MINGW64 ~
+  445  $ mkdir Assess_0006
+  446  ASUS@DESKTOP-607SCML MINGW64 ~
+  447  $ cd Assess_0006
+  448  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006
+  449  $ pwd
+  450  /c/Users/ASUS/Assess_0006
+  451  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006
+  452  $ mkdir img
+  453  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006
+  454  $ ls
+  455  img/
+  456  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006
+  457  $ git init
+  458  Initialized empty Git repository in C:/Users/ASUS/Assess_0006/.git/
+  459  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+  460  $ touch hello.c
+  461  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+  462  $ ls
+  463  hello.c  img/
+  464  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+  465  $ touch hey.txt
+  466  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+  467  $ touch index.html
+  468  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+  469  $ img.png
+  470  bash: img.png: command not found
+  471  ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+  472  $ touch img.png
+  473  pwd
+  474  ls
+  475  cd Assess_0006
+  476  ls
+  477  git mv * img/
+  478  git mv /c/Users/ASUS/Assess_0006/hello.c/* /c/Users/ASUS/Assess_0006/img/
+  479  git mv c/Users/ASUS/Assess_0006/hello.c/* c/Users/ASUS/Assess_0006/img/
+  480  ls
+  481  cp -r /c/Users/ASUS/Assess_0006/. /c/Users/ASUS/Assess_0006/img/
+  482  clear
+  483  ls
+  484  pwd
+  485  cp -r /c/Users/ASUS/Assess_0006/. /c/Users/ASUS/Assess_0006/img/
+  486  cp -r * /c/Users/ASUS/Assess_0006/img/
+  487  cd img
+  488  $ cp -r * /c/Users/ASUS/Assess_0006/img/
+  489  $ cp -r */c/Users/ASUS/Assess_0006/img/
+  490  $ cp -r*/c/Users/ASUS/Assess_0006/img/
+  491  ls
+  492  vi hello.c
+  493  git add hello.c
+  494  vi hey.txt
+  495  vi index.html
+  496  git status
+  497  git add index.html
+  498  cd ..
+  499  ls
+  500  vi img.png
+  501  pwd
+  502  cd Assess_0006
+  503  vi log.txt
+  504  history
+
+ASUS@DESKTOP-607SCML MINGW64 ~/Assess_0006 (master)
+$
+
